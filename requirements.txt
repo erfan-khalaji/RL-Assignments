@@ -1,3 +1,0 @@
-gymnasium
-numpy
-torch  # Adjust this version depending on your device
