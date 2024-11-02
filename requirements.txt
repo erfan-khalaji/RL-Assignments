@@ -1,0 +1,15 @@
+# PyTorch (use the appropriate version for your system and CUDA version)
+torch
+torchvision
+
+# OpenAI Gym for reinforcement learning
+gym
+
+# Additional dependencies for RL projects
+numpy
+matplotlib
+pandas
+scipy
+tensorboard
+tqdm
+
